@@ -1,2 +1,2 @@
 # rsschool-cv
-🔗 [CV#1](https://github.com/OlgaMinaievaWebDev/rsschool-cv/blob/gh-pages/cv.md)
+🔗 [CV#1](https://olgaminaievawebdev.github.io/rsschool-cv/cv)
