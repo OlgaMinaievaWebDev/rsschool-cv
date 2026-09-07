@@ -1,2 +1,3 @@
 # rsschool-cv
-CV. HTML, CSS &amp; Git Basics project
+
+[CV. HTML, CSS & Git Basics](https://olgaminaievawebdev.github.io/rsschool-cv/)
