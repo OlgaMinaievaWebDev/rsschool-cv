@@ -32,3 +32,22 @@ function multiply(a, b) {
   return a * b;
 }
 ```
+
+## Projects
+
+### API Playground Dashboard
+
+A full-stack API client with authentication, request history, collections, analytics, localization, and dark mode. Built with TypeScript and modern web-development tools.
+
+- [Live Demo](https://api-playground-dashboard-dun.vercel.app)
+- [Source Code](https://github.com/OlgaMinaievaWebDev/api-playground-dashboard)
+
+## Education
+
+- Rolling Scopes School — JavaScript/Front-End Development, in progress (2026)
+- Rolling Scopes School — Node.js Course (2026)
+- Udemy and freeCodeCamp — JavaScript and responsive web-design courses
+
+## English
+
+**Upper-Intermediate (B2).** I regularly use English to read technical documentation, follow programming courses, and communicate in developer communities.
